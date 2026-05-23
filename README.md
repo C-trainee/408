@@ -1,4 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![tip](https://badgen.net/badge/Python/3.9/green?icon=python)
+![Leetcode](https://stats.justsong.cn/api/leetcode?username=zjq182&cn=true)
+![CSDN](https://stats.justsong.cn/api/csdn?id=weixin_39659738)
 # 408学习资料和课程笔记（非考研）
 # 资料构成
 + 王道考研ppt
