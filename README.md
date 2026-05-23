@@ -1,3 +1,4 @@
+[![C-trainee's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-trainee)](https://github.com/C-trainee/408)
 # 408学习资料和课程笔记（非考研）
 # 资料构成
 + 王道考研ppt
